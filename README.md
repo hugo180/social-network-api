@@ -29,7 +29,10 @@
 ## Usage:
 
 ### open the file on your text editor then open command line and "npm i " after that do "npm start",the program its going to be ready to use
-### YT link for a video demo
+### YT link for a video demo:https://youtu.be/52GoIaiau9w
+
+
+
 <img width="1440" alt="Screen Shot 2022-05-08 at 12 32 07 AM" src="https://user-images.githubusercontent.com/28612070/167284820-860b9aaa-3c65-42dd-ae04-bda39704ec05.png">
 
 <img width="1440" alt="Screen Shot 2022-05-08 at 12 31 55 AM" src="https://user-images.githubusercontent.com/2861207<img width="1440" alt="Screen Shot 2022-05-08 at 12 31 49 AM" src="https://user-images.githubusercontent.com/28612070/167284823-e086ef9f-16d1-40d4-af51-caf27cae06ef.png">
