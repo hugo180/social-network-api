@@ -35,8 +35,10 @@
 
 <img width="1440" alt="Screen Shot 2022-05-08 at 12 32 07 AM" src="https://user-images.githubusercontent.com/28612070/167284820-860b9aaa-3c65-42dd-ae04-bda39704ec05.png">
 
-<img width="1440" alt="Screen Shot 2022-05-08 at 12 31 55 AM" src="https://user-images.githubusercontent.com/2861207<img width="1440" alt="Screen Shot 2022-05-08 at 12 31 49 AM" src="https://user-images.githubusercontent.com/28612070/167284823-e086ef9f-16d1-40d4-af51-caf27cae06ef.png">
-0/167284822-183a1dc2-ebda-47a5-ac83-68d517f3597b.png">
+<img width="1440" alt="Screen Shot 2022-05-08 at 12 31 55 AM" src="https://user-images.githubusercontent.com/2861207<img width="1440" 
+                                                                                                                                     
+
+
 
 
 ## Contributors:
